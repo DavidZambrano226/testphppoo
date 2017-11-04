@@ -1,0 +1,7 @@
+.btn{
+	transition: 0.3s;
+	padding: 2px 0;
+}
+.btn:hover{
+	transform: scale(1.2);
+}
