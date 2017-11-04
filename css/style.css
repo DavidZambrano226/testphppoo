@@ -1,6 +1,7 @@
 .btn{
 	transition: 0.3s;
 	padding: 2px 0;
+	text-transform: uppercase;
 }
 .btn:hover{
 	transform: scale(1.2);
